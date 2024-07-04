@@ -1,0 +1,14 @@
+Title: Sleek Wireless Mouse.
+Description: A modern wireless mouse with a sleek design, offering precise movement and connectivity of up to 10 meters.
+
+Title: Eco-friendly Water Bottle.
+Description: Durable, BPA-free water bottle designed for daily use, ensuring your hydration is both eco-friendly and stylish.
+
+Title: Noise-Canceling Headphones.
+Description: Over-ear headphones with advanced noise-canceling technology, ensuring a crystal-clear audio experience in any environment.
+
+Title: Ultra-Soft Microfiber Towel.
+Description: Luxuriously soft microfiber towel that's super absorbent and quick-drying, perfect for home or gym use.
+
+Title: Organic Hand Cream.
+Description: Nourish and hydrate your hands with our organic cream, enriched with natural oils and free from artificial fragrances.
